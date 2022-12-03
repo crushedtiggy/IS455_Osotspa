@@ -1,0 +1,23 @@
+{
+   "students": [
+      "fast_food",
+      "dormitory",
+      "tuition_school",
+      "internet_cafe",
+      "school",
+      "hostel",
+      "university"
+   ],
+   "white-collar": [
+      "restaurant",
+      "department_store",
+      "mall",
+      "spa",
+      "fitness_centre"
+   ],
+   "blue-collar": [
+      "bicycle",
+      "bicycle_parking",
+      "construction"
+   ]
+}
